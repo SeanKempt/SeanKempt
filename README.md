@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Sean, a Full-Stack Developer 👨‍💻</div>  
+## <div align="center">I'm Sean, a Full-Stack Developer 👨‍💻</div>  
 - 🔭 I’m currently working on improving my portfolio and gaining more experience as a Full Stack Developer
 - 🌱 I’m currently learning React and NodeJS
 - 📫 How to reach me: Kempt101@gmail.com
