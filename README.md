@@ -1,4 +1,9 @@
+<div align="center">
+<img src="./Welcomebanner.png" align="center" style="width: 100%" />
+</div>  
+  
 
+### <div align="center">I'm Sean, a Full-Stack Developer 👨‍💻</div>  
 - 🔭 I’m currently working on improving my portfolio and gaining more experience as a Full Stack Developer
 - 🌱 I’m currently learning React and NodeJS
 - 📫 How to reach me: Kempt101@gmail.com
