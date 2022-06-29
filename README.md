@@ -1,4 +1,3 @@
-![Header](./github-header-image.png)
 
 - 🔭 I’m currently working on improving my portfolio and gaining more experience as a Full Stack Developer
 - 🌱 I’m currently learning React and NodeJS
@@ -6,6 +5,7 @@
 - ⚡ Fun fact: I love training Brazilian Jiu-Jitsu!
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SeanKempt)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeanKempt)](https://github.com/SeanKempt/github-readme-stats)
 
 <!--
 **SeanKempt/SeanKempt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
