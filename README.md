@@ -2,7 +2,8 @@
 <img src="./Welcomebanner.png" align="center" style="width: 100%" />
 </div>  
   
-<hr>
+
+### <div align="center">About Me</div>
 - 🔭 I’m currently working on improving my portfolio and gaining more experience as a Full Stack Developer
 - 🌱 I’m currently learning React and NodeJS
 - 📫 How to reach me: Kempt101@gmail.com
