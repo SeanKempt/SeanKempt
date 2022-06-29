@@ -1,4 +1,4 @@
-### Hi there 👋
+![Header](./github-header-image.png)
 
 - 🔭 I’m currently working on improving my portfolio and gaining more experience as a Full Stack Developer
 - 🌱 I’m currently learning React and NodeJS
