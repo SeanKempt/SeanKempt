@@ -7,7 +7,6 @@
 - 🔭 I’m currently working on improving my portfolio and gaining more experience as a Full Stack Developer
 - 🌱 I’m currently learning React JS
 - 📫 How to reach me: Kempt101@gmail.com
-- ⚡ Fun fact: I love training Brazilian Jiu-Jitsu!
 
 
 
